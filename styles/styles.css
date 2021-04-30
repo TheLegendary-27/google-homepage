@@ -134,6 +134,7 @@
     padding: 6px 12px;
     font-size: 14px;
     vertical-align: middle;
+    cursor: pointer;
 }
 
 .form-buttons:hover {
